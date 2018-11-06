@@ -1,0 +1,389 @@
+@import url("https://use.typekit.net/ulu6fia.css");
+
+
+*{
+  font-family: futura-pt, sans-serif;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+#p1{
+  font-size: 24px;
+  font-weight:lighter;
+  color:white;
+  margin:0px;
+  padding-left: 13%;
+  padding-right: 13%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  border: 3% ;
+  background-color: #293034;
+}
+#p1a{
+  font-size: 24px;
+  font-weight:400;
+  color:#293034;
+  margin:0px;
+  padding-left: 13%;
+  padding-right: 13%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  border: 3% ;
+}
+
+#p2{
+  font-size: 24px;
+  font-weight:lighter;
+  color:white;
+  margin:0px;
+  padding-left: 13%;
+  padding-right: 13%;
+  padding-top: 5%;
+  padding-bottom: 2%;
+  border: 3% ;
+}
+#p3{
+  font-weight: lighter;
+  display:block;
+  font-size: 24px;
+  color:white;
+  margin:0px;
+  padding-left: 15%;
+  padding-right: 13%;
+  padding-top: 0.5%;
+  padding-bottom: 1%;
+  background-color: #293034;
+}
+#p4{
+  text-align: left;
+  font-weight: lighter;
+  position: absolute;
+  display:block;
+  font-size: 40px;
+  font-weight:inherit;
+  color:#FFCC00;
+  margin:0px;
+  padding-left: 13%;
+  padding-right: 13%;
+  padding-top: 0%;
+  padding-bottom: 1%;
+}
+#p5{
+  font-style: italic;
+  font-size: 24px;
+  font-weight:inherit;
+  color:#3a3a3a;
+  margin:0px;
+  padding-left: 13%;
+  padding-right: 13%;
+  padding-top: 5%;
+  /* padding-bottom: 2%; */
+  /* border: 3% ; */
+}
+#p6{
+  font-size: 24px;
+  font-weight:inherit;
+  color:#3a3a3a;
+  margin:0px;
+  padding-left: 13%;
+  padding-right: 13%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  border: 3% ;
+}
+#p7{
+  text-align: left;
+  font-size: 24px;
+  font-weight:inherit;
+  color:#3a3a3a;
+  margin:0px;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 5%;
+  padding-bottom: 2%;
+  border: 3% ;
+}
+#p8{
+  font-size: 22px;
+  font-weight:lighter;
+  color:white;
+  margin:0px;
+  /* padding-left: 18%;
+  padding-right: 0%; */
+  padding-top: 5%;
+  padding-bottom: 5%;
+  border: 3% ;
+}
+#p9{
+  font-size: 22px;
+  font-weight:lighter;
+  color:white;
+  margin:0px;
+  /* padding-left: 0%;
+  padding-right: 18%; */
+  /* padding-top: 5%; */
+  /* padding-bottom: 5%; */
+  border: 3% ;
+}
+
+#research {
+  background-color: #ACBBBE;
+  padding-bottom: 4%;
+}
+#analysis {
+  background-color: #ACBBBE;
+  padding-bottom: 4%;
+}
+#Storyboard {
+  background-color: #293034;
+  padding-bottom: 4%;
+}
+#Final{
+  background-color: white;
+  padding-bottom: 4%;
+}
+
+
+.p2{
+  font-size: 24px;
+  font-weight:inherit;
+  color:#3a3a3a;
+  margin:0px;
+  padding: 6%;
+
+  /* padding-right: 15%; */
+}
+
+.p3{
+  text-align: center;
+  font-size: 32px;
+  font-weight:bold;
+  color:#4A535E;
+  margin:0px;
+  padding: 0%;
+
+  /* background-color: #ACBBBE; */
+  /* padding-right: 15%; */
+}
+.p4{
+  font-size: 24px;
+  font-weight:300;
+  color:#4A535E;
+  margin:0px;
+  padding: 8%;
+  padding-bottom: 3%;
+  /* padding-top: 6%; */
+  /* padding-right: 15%; */
+}
+
+
+.percent-span{
+  font-size: 40px;
+  font-weight:inherit;
+  color:#FFCC00;
+  position: relative;
+  left: -2%;
+}
+
+#problem{
+  text-align: right;
+  font-size: 30px;
+  font-weight:bold;
+  color:#4A535E;
+  position:relative;
+  padding-top:183%;
+}
+#solution{
+  text-align: right;
+  font-size: 30px;
+  font-weight:bold;
+  color:#4A535E;
+  position:relative;
+  padding-top:87%;
+}
+
+
+
+
+
+.bg {
+    background-image: url("../image/Cover.png");
+    height: 100%;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.picture1 {
+    background-image: url("../image/picture1.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.relative  {
+  background-image: url("../image/picture 1.4.png");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* padding-left: 13%; */
+}
+
+.picture2  {
+  background-image: url("../image/picture1.5.png");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* padding-left: 13%; */
+}
+
+
+
+h1{
+  margin: 0;
+  padding-top: 5%;
+  font-weight: bolder;
+  font-size: 42px;
+  /* color:#3a3a3a; */
+  text-align: center;
+}
+h2{
+  margin: 0;
+  padding-left: 13%;
+  padding-top: 3%;
+  font-weight: bolder;
+  font-size: 35px;
+  /* color:#3a3a3a; */
+  text-align: left;
+}
+h3{
+  margin: 0;
+  /* padding-left: 13%; */
+  padding-top: 3%;
+  font-weight: 400;
+  font-size: 35px;
+  /* color:#3a3a3a; */
+  text-align: center;
+}
+.head1 {color:#3a3a3a;
+/* background-color: #ACBBBE; */
+}
+.head2 {
+  color:white;
+  /* background-color: #293034; */
+
+}
+
+.head3 {
+  color: white;
+  background-color: #293034;
+}
+
+.head4 {
+  color: #3a3a3a;
+}
+
+.head4 {
+  color:white;
+  padding-bottom: 5%;
+}
+
+
+
+img.relative1{
+  width:74%;
+  height:auto;
+  position:relative;
+  padding-left: 14%;
+  padding-right:14%;
+  padding-top: 7%;
+  padding-bottom: 0%;
+  /* background-color: #ACBBBE; */
+}
+img.relative2{
+  width:95%;
+  height:auto;
+  /* align-items: center; */
+  position:relative;
+  padding-left: 2.5%;
+  padding-right:0%;
+  padding-top: 13%;
+  padding-bottom: 0%;
+  /* background-color: #ACBBBE; */
+}
+img.relative3{
+  width:100%;
+  height:auto;
+  position:relative;
+
+  /* background-color: #ACBBBE; */
+}
+img.relative4{
+  width:68%;
+  height:auto;
+  position:relative;
+  padding-left: 16%;
+  padding-right:14%;
+  /* padding-top: 7%;
+  padding-bottom: 0%; */
+}
+img.relative5{
+  width:100%;
+  height:auto;
+  position:relative;
+  /* padding-left: 19.5%; */
+}
+img.relative6{
+  width:100%;
+  height:auto;
+  padding-top: 6%;
+  position:relative;
+  /* padding-right: 18%; */
+}
+.ul1 {
+  font-weight: lighter;
+  /* text-align: left; */
+  /* position: absolute; */
+  display:block;
+  font-size: 24px;
+  /* font-weight:inherit; */
+  /* color:white; */
+  line-height: 200%;
+  margin:0px;
+  padding-left: 15%;
+  padding-right: 13%;
+  padding-top: 0.5%;
+  padding-bottom: 5%;
+  color:white;
+  background-color: #293034;
+
+}
+
+@media (max-width: 47.999em) {
+  *{
+    letter-spacing: normal;
+  }
+  .bg {
+      /* Full height */
+      width: 100%;
+      max-height: 200px;
+  }
+  .sm-hidden {
+    display: none;
+  }
+  .sm-show {
+    display: block;
+  }
+  #p3 {
+      padding-top:4%;
+      padding-bottom: 4%;
+  }
+  .percent-span {
+    display: block;
+  }
+
+}
